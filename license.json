@@ -1,16 +1,16 @@
 {
   "licenses": [
     {
-      "serial": "SUNMI123456",
+      "android_id": "SUNMI123456",
       "device": "Sunmi V2 Pro",
       "activated": true,
-      "note": "Máy chính"
+      "note": "Máy 1"
     },
     {
-      "serial": "SUNMI000789",
-      "device": "Sunmi V2s",
-      "activated": false,
-      "note": "Máy demo"
+      "android_id": "7a2b23895c856e56",
+      "device": "V2s_GL",
+      "activated": true,
+      "note": "Máy 2"
     }
   ]
 }
