@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "serial": "SUNMI123456",
+      "device": "Sunmi V2 Pro",
+      "activated": true,
+      "note": "Máy chính"
+    },
+    {
+      "serial": "SUNMI000789",
+      "device": "Sunmi V2s",
+      "activated": false,
+      "note": "Máy demo"
+    }
+  ]
+}
