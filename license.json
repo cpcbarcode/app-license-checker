@@ -12,6 +12,6 @@
       "activated": true,
       "note": "Máy 2"
     }
-    {"android_id":"4d8f98cdaaaa94bc","manufacturer":"samsung","model":"SM-N986B","android_version":"13","time":"2025-06-08 16:51:48"}
+    {"android_id":"4d8f98cdaaaa94bc","activated": true,"manufacturer":"samsung","model":"SM-N986B","android_version":"13","time":"2025-06-08 16:51:48"}
   ]
 }
